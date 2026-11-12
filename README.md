@@ -3,7 +3,7 @@
 Aluno: Gabriel Siqueira dos Santos
 
 Aplicação web desenvolvida em Python com **Dash** e **Plotly Express** para visualização interativa de métricas de vendas, avaliações, descontos e sazonalidade de produtos de e-commerce.
-Atividade proposta pelo curso de formação em Analista de Dados pela Escola Britânica de Arte Criativas e Tecnologia (EBAC).
+Atividade proposta pelo curso de formação em Analista de Dados pela Escola Britânica de Artes Criativas e Tecnologia (EBAC).
 
 # Preview do Dashboard
 
